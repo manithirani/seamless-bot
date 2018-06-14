@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manithirani/seamless-bot/issues"
   },
-  "homepage": "https://github.com/manithirani/seamless-bot#readme"
+  "homepage": "https://github.com/manithirani/seamless-bot#readme",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
 }
